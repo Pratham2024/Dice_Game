@@ -2,8 +2,8 @@ var randomNumber1=Math.floor(Math.random()*6)+1;
 var randomNumber2=Math.floor(Math.random()*6)+1;
 
 // created a lot of problem
-var source1= "images/dice"+randomNumber1+".png";
-var source2= "images/dice"+randomNumber2+".png";
+var source1= "dice"+randomNumber1+".png";
+var source2= "dice"+randomNumber2+".png";
 // this  above section
 
 // this below section by myself
